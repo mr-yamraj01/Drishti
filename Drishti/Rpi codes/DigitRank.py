@@ -5,11 +5,7 @@ def Rank(char):
     #   return 1
     # if(char is 'i' or char is '9'):
     #   return 2
-    # if(char is 'n'):
-    #   return 3
-    # if(char is 'r'):
-    #   return 4
-    # if(char is 'd' or char is '4'):
+    # if(
     #   return 5
     # if(char is 'u'):
     #   return 6
